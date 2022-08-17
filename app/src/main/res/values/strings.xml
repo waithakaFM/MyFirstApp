@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TutorialApplication</string>
+    <string name="hello_message">Hello From Francis!</string>
+</resources>
